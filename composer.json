@@ -1,0 +1,11 @@
+{
+    "name": "wuloves/utils",
+    "description": "wuloves untils",
+    "authors": [
+        {
+            "name": "wuloves",
+            "email": "devwu@qq.com"
+        }
+    ],
+    "require": {}
+}
